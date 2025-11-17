@@ -1,1 +1,1 @@
-anewai.github.io
+Anew AI
